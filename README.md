@@ -1,2 +1,3 @@
-# maven_cicd_helloworld
-maven project
+# maven-project
+
+Simple Maven Project
